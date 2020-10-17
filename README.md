@@ -6,6 +6,7 @@ In order to use this code, the first step is to create a virtual environment. Th
 3. venv\Scripts\activate
 
 Then, install all the needed dependencies
+
 4. pip install -r requirements.txt
 
 Now, you are good to go.
